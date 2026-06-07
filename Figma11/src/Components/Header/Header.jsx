@@ -4,7 +4,7 @@ import React from 'react'
 import i18next from "i18next";
 
 function Header() {
-  const [t, i18n] = useTranslation(
+  const [t, i18n] = useTranslation();
   return (
     <div></div>
   )
