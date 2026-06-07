@@ -18,7 +18,6 @@ function Header() {
             <li className="header-item"><a href="#"></a></li>
             <li className="header-item"><a href="#"></a></li>
             <li className="header-item"><a href="#"></a></li>
-            <li className="header-item"><a href="#"></a></li>
           </ul>
         </div>
       </div>
