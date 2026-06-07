@@ -6,7 +6,7 @@ import i18next from "i18next";
 function Header() {
   const [t, i18n] = useTranslation();
   return (
-    <div className=""></div>
+    <div className="header"></div>
   )
 }
 
