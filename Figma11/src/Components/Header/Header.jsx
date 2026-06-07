@@ -9,7 +9,7 @@ function Header() {
     <div className="header">
       <div className="container">
         <div className="header-wrapper">
-          <a className="logo" href="#"><img src="" alt="rasm" /></a>
+          <a className="logo" href="#"><img src="" alt="rasm" />logo</a>
         </div>
       </div>
     </div>
