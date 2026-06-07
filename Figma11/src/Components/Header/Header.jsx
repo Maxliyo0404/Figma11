@@ -7,7 +7,9 @@ function Header() {
   const [t, i18n] = useTranslation();
   return (
     <div className="header">
-      <div className="container"></div>
+      <div className="container">
+        <div className="header-wrapper"></div>
+      </div>
     </div>
   )
 }
